@@ -1,0 +1,12 @@
+0.7
+2020.2
+Apr 18 2022
+16:05:34
+D:/Project/GCD_calc/GCD_calc.sim/sim_1/behav/xsim/glbl.v,1649976174,verilog,,,,glbl,,,,,,,,
+D:/Project/GCD_calc/GCD_calc.srcs/sim_1/new/tb.v,1731580185,verilog,,,,tb,,,,,,,,
+D:/Project/GCD_calc/GCD_calc.srcs/sources_1/new/GCD_cal.v,1733064790,verilog,,D:/Project/GCD_calc/GCD_calc.srcs/sources_1/new/comparator.v,,GCD_cal,,,,,,,,
+D:/Project/GCD_calc/GCD_calc.srcs/sources_1/new/comparator.v,1733058603,verilog,,D:/Project/GCD_calc/GCD_calc.srcs/sources_1/new/fsm.v,,comparator,,,,,,,,
+D:/Project/GCD_calc/GCD_calc.srcs/sources_1/new/fsm.v,1733065582,verilog,,D:/Project/GCD_calc/GCD_calc.srcs/sources_1/new/mux.v,,fsm,,,,,,,,
+D:/Project/GCD_calc/GCD_calc.srcs/sources_1/new/mux.v,1731578981,verilog,,D:/Project/GCD_calc/GCD_calc.srcs/sources_1/new/regis.v,,mux,,,,,,,,
+D:/Project/GCD_calc/GCD_calc.srcs/sources_1/new/regis.v,1733057597,verilog,,D:/Project/GCD_calc/GCD_calc.srcs/sources_1/new/subtractor.v,,regis,,,,,,,,
+D:/Project/GCD_calc/GCD_calc.srcs/sources_1/new/subtractor.v,1731579119,verilog,,D:/Project/GCD_calc/GCD_calc.srcs/sim_1/new/tb.v,,subtractor,,,,,,,,
